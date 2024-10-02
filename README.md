@@ -16,7 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch](https://github.com/najirh/amazon_usa_project5/blob/main/erd2.png)
+![ERD Scratch](https://github.com/user-attachments/assets/bf70cc33-b063-44f6-89eb-1c14d2e9a30d)
 
 ## **Database Setup & Design**
 
